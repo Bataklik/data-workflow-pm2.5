@@ -21,3 +21,14 @@ jobs:
 
     - name: Run transform_data.sh
       run: ./transform_data.sh
+
+    - name: Set up Git
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+
+    - name: Commit en push data
+      run: | 
+        git add raw_data/ processed_data/
+        git commit -m "Update data files" || echo "No changes to commit"
+        git push
