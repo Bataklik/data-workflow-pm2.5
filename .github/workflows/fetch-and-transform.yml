@@ -1,0 +1,23 @@
+name: Fetch and Transform Data
+
+on:
+  workflow_dispatch: # handmatig triggeren
+  schedule:
+    - cron: '0 0 * * *' # elke dag om 00:00 UTC
+
+jobs:
+  fetch_transform:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Set up shell permissions
+      run: chmod +x ./fetch_data.sh ./transform_data.sh
+
+    - name: Run fetch_data.sh
+      run: ./fetch_data.sh
+
+    - name: Run transform_data.sh
+      run: ./transform_data.sh
