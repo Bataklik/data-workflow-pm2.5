@@ -1,0 +1,767 @@
+[
+{
+  "timestamp": "2025-06-17T16:00:00+00:00",
+  "location": {
+    "lat": 51.30452079034417,
+    "lon": 4.234832753144062,
+    "ab_name": "40AL02 - Beveren",
+    "network": "Flanders"
+  },
+  "pm25_value": 6,
+  "weather": {
+    "temperature_2m": 11.2,
+    "relativehumidity_2m": 88,
+    "windspeed_10m": 2.2
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T16:00:00+00:00",
+  "location": {
+    "lat": 51.26311771687359,
+    "lon": 4.278889821667833,
+    "ab_name": "40AL05 - Beveren",
+    "network": "Flanders"
+  },
+  "pm25_value": 9,
+  "weather": {
+    "temperature_2m": 16.2,
+    "relativehumidity_2m": 70,
+    "windspeed_10m": 6.8
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T16:00:00+00:00",
+  "location": {
+    "lat": 51.17029803843535,
+    "lon": 4.341005064562845,
+    "ab_name": "40HB23 - Hoboken",
+    "network": "Flanders"
+  },
+  "pm25_value": 8,
+  "weather": {
+    "temperature_2m": 18.1,
+    "relativehumidity_2m": 64,
+    "windspeed_10m": 6.8
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T16:00:00+00:00",
+  "location": {
+    "lat": 51.03160178512385,
+    "lon": 5.3763866842389705,
+    "ab_name": "42HH08 - Houthalen-Helchteren",
+    "network": "Flanders"
+  },
+  "pm25_value": 7,
+  "weather": {
+    "temperature_2m": 15.9,
+    "relativehumidity_2m": 75,
+    "windspeed_10m": 5.4
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T16:00:00+00:00",
+  "location": {
+    "lat": 50.94138711459387,
+    "lon": 4.436720763534069,
+    "ab_name": "42R020 - Vilvoorde",
+    "network": "Flanders"
+  },
+  "pm25_value": 7,
+  "weather": {
+    "temperature_2m": 17.7,
+    "relativehumidity_2m": 65,
+    "windspeed_10m": 4.3
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T16:00:00+00:00",
+  "location": {
+    "lat": 51.2095187315834,
+    "lon": 4.4317922307924436,
+    "ab_name": "42R802 - Borgerhout",
+    "network": "Flanders"
+  },
+  "pm25_value": 10,
+  "weather": {
+    "temperature_2m": 18.2,
+    "relativehumidity_2m": 64,
+    "windspeed_10m": 6.1
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T16:00:00+00:00",
+  "location": {
+    "lat": 51.22862981306364,
+    "lon": 4.428454177535568,
+    "ab_name": "42R803 - Antwerpen (Park Spoor Noord)",
+    "network": "Flanders"
+  },
+  "pm25_value": 10,
+  "weather": {
+    "temperature_2m": 17.5,
+    "relativehumidity_2m": 67,
+    "windspeed_10m": 6.1
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T16:00:00+00:00",
+  "location": {
+    "lat": 51.020374444318165,
+    "lon": 4.483255334197501,
+    "ab_name": "42R842 - Mechelen (Hendrik Speecqvest)",
+    "network": "Flanders"
+  },
+  "pm25_value": 7,
+  "weather": {
+    "temperature_2m": 17.5,
+    "relativehumidity_2m": 66,
+    "windspeed_10m": 6.1
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T16:00:00+00:00",
+  "location": {
+    "lat": 51.22730931433437,
+    "lon": 4.331523918163803,
+    "ab_name": "42ZD08 - Zwijndrecht (Neerstraat)",
+    "network": "Flanders"
+  },
+  "pm25_value": 11,
+  "weather": {
+    "temperature_2m": 15.0,
+    "relativehumidity_2m": 75,
+    "windspeed_10m": 5.4
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T16:00:00+00:00",
+  "location": {
+    "lat": 50.94535924135039,
+    "lon": 3.152401590470013,
+    "ab_name": "44M705 - Roeselare",
+    "network": "Flanders"
+  },
+  "pm25_value": 8,
+  "weather": {
+    "temperature_2m": 15.0,
+    "relativehumidity_2m": 79,
+    "windspeed_10m": 2.9
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T16:00:00+00:00",
+  "location": {
+    "lat": 51.19606326849923,
+    "lon": 3.8229200468043354,
+    "ab_name": "44R750 - Zelzate",
+    "network": "Flanders"
+  },
+  "pm25_value": 7,
+  "weather": {
+    "temperature_2m": 15.2,
+    "relativehumidity_2m": 79,
+    "windspeed_10m": 5.4
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T15:00:00+00:00",
+  "location": {
+    "lat": 51.03160178512385,
+    "lon": 5.3763866842389705,
+    "ab_name": "42HH08 - Houthalen-Helchteren",
+    "network": "Flanders"
+  },
+  "pm25_value": 7,
+  "weather": {
+    "temperature_2m": 15.9,
+    "relativehumidity_2m": 75,
+    "windspeed_10m": 5.4
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T15:00:00+00:00",
+  "location": {
+    "lat": 50.936189381853765,
+    "lon": 5.354360289979902,
+    "ab_name": "42N047 - Hasselt",
+    "network": "Flanders"
+  },
+  "pm25_value": 7,
+  "weather": {
+    "temperature_2m": 17.5,
+    "relativehumidity_2m": 67,
+    "windspeed_10m": 3.2
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T15:00:00+00:00",
+  "location": {
+    "lat": 50.711706093733504,
+    "lon": 5.103158609453958,
+    "ab_name": "42N054 - Walshoutem",
+    "network": "Flanders"
+  },
+  "pm25_value": 7,
+  "weather": {
+    "temperature_2m": 13.0,
+    "relativehumidity_2m": 87,
+    "windspeed_10m": 0.7
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T15:00:00+00:00",
+  "location": {
+    "lat": 50.94138711459387,
+    "lon": 4.436720763534069,
+    "ab_name": "42R020 - Vilvoorde",
+    "network": "Flanders"
+  },
+  "pm25_value": 7,
+  "weather": {
+    "temperature_2m": 17.7,
+    "relativehumidity_2m": 65,
+    "windspeed_10m": 4.3
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T15:00:00+00:00",
+  "location": {
+    "lat": 51.2095187315834,
+    "lon": 4.4317922307924436,
+    "ab_name": "42R802 - Borgerhout",
+    "network": "Flanders"
+  },
+  "pm25_value": 8,
+  "weather": {
+    "temperature_2m": 18.2,
+    "relativehumidity_2m": 64,
+    "windspeed_10m": 6.1
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T15:00:00+00:00",
+  "location": {
+    "lat": 51.020374444318165,
+    "lon": 4.483255334197501,
+    "ab_name": "42R842 - Mechelen (Hendrik Speecqvest)",
+    "network": "Flanders"
+  },
+  "pm25_value": 7,
+  "weather": {
+    "temperature_2m": 17.5,
+    "relativehumidity_2m": 66,
+    "windspeed_10m": 6.1
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T15:00:00+00:00",
+  "location": {
+    "lat": 51.01628011113793,
+    "lon": 2.582322781489744,
+    "ab_name": "44N029 - Houtem",
+    "network": "Flanders"
+  },
+  "pm25_value": 4,
+  "weather": {
+    "temperature_2m": 10.7,
+    "relativehumidity_2m": 93,
+    "windspeed_10m": 3.2
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T15:00:00+00:00",
+  "location": {
+    "lat": 51.05833171626477,
+    "lon": 3.729298171690588,
+    "ab_name": "44R701 - Gent",
+    "network": "Flanders"
+  },
+  "pm25_value": 9,
+  "weather": {
+    "temperature_2m": 18.2,
+    "relativehumidity_2m": 67,
+    "windspeed_10m": 7.2
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T15:00:00+00:00",
+  "location": {
+    "lat": 51.06127769765455,
+    "lon": 3.7752623896453605,
+    "ab_name": "44R710 - Destelbergen",
+    "network": "Flanders"
+  },
+  "pm25_value": 7,
+  "weather": {
+    "temperature_2m": 16.3,
+    "relativehumidity_2m": 75,
+    "windspeed_10m": 6.1
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T15:00:00+00:00",
+  "location": {
+    "lat": 51.19606326849923,
+    "lon": 3.8229200468043354,
+    "ab_name": "44R750 - Zelzate",
+    "network": "Flanders"
+  },
+  "pm25_value": 7,
+  "weather": {
+    "temperature_2m": 15.2,
+    "relativehumidity_2m": 79,
+    "windspeed_10m": 5.4
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T14:00:00+00:00",
+  "location": {
+    "lat": 51.30452079034417,
+    "lon": 4.234832753144062,
+    "ab_name": "40AL02 - Beveren",
+    "network": "Flanders"
+  },
+  "pm25_value": 9,
+  "weather": {
+    "temperature_2m": 11.2,
+    "relativehumidity_2m": 88,
+    "windspeed_10m": 2.2
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T14:00:00+00:00",
+  "location": {
+    "lat": 51.2906675267467,
+    "lon": 4.2933294769403885,
+    "ab_name": "40AL04 - Beveren",
+    "network": "Flanders"
+  },
+  "pm25_value": 12,
+  "weather": {
+    "temperature_2m": 15.6,
+    "relativehumidity_2m": 73,
+    "windspeed_10m": 6.1
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T14:00:00+00:00",
+  "location": {
+    "lat": 51.17029803843535,
+    "lon": 4.341005064562845,
+    "ab_name": "40HB23 - Hoboken",
+    "network": "Flanders"
+  },
+  "pm25_value": 7,
+  "weather": {
+    "temperature_2m": 18.1,
+    "relativehumidity_2m": 64,
+    "windspeed_10m": 6.8
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T14:00:00+00:00",
+  "location": {
+    "lat": 50.79346904431341,
+    "lon": 3.1096418744986645,
+    "ab_name": "40MN01 - Menen",
+    "network": "Flanders"
+  },
+  "pm25_value": 7,
+  "weather": {
+    "temperature_2m": 15.7,
+    "relativehumidity_2m": 75,
+    "windspeed_10m": 2.2
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T14:00:00+00:00",
+  "location": {
+    "lat": 50.94138711459387,
+    "lon": 4.436720763534069,
+    "ab_name": "42R020 - Vilvoorde",
+    "network": "Flanders"
+  },
+  "pm25_value": 8,
+  "weather": {
+    "temperature_2m": 17.7,
+    "relativehumidity_2m": 65,
+    "windspeed_10m": 4.3
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T14:00:00+00:00",
+  "location": {
+    "lat": 51.020374444318165,
+    "lon": 4.483255334197501,
+    "ab_name": "42R842 - Mechelen (Hendrik Speecqvest)",
+    "network": "Flanders"
+  },
+  "pm25_value": 7,
+  "weather": {
+    "temperature_2m": 17.5,
+    "relativehumidity_2m": 66,
+    "windspeed_10m": 6.1
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T14:00:00+00:00",
+  "location": {
+    "lat": 50.94535924135039,
+    "lon": 3.152401590470013,
+    "ab_name": "44M705 - Roeselare",
+    "network": "Flanders"
+  },
+  "pm25_value": 9,
+  "weather": {
+    "temperature_2m": 15.0,
+    "relativehumidity_2m": 79,
+    "windspeed_10m": 2.9
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T14:00:00+00:00",
+  "location": {
+    "lat": 51.254573622436354,
+    "lon": 3.3625358887016032,
+    "ab_name": "44N012 - Moerkerke",
+    "network": "Flanders"
+  },
+  "pm25_value": 6,
+  "weather": {
+    "temperature_2m": 10.3,
+    "relativehumidity_2m": 96,
+    "windspeed_10m": 1.8
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T14:00:00+00:00",
+  "location": {
+    "lat": 51.05833171626477,
+    "lon": 3.729298171690588,
+    "ab_name": "44R701 - Gent",
+    "network": "Flanders"
+  },
+  "pm25_value": 7,
+  "weather": {
+    "temperature_2m": 18.2,
+    "relativehumidity_2m": 67,
+    "windspeed_10m": 7.2
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T14:00:00+00:00",
+  "location": {
+    "lat": 51.06127769765455,
+    "lon": 3.7752623896453605,
+    "ab_name": "44R710 - Destelbergen",
+    "network": "Flanders"
+  },
+  "pm25_value": 6,
+  "weather": {
+    "temperature_2m": 16.3,
+    "relativehumidity_2m": 75,
+    "windspeed_10m": 6.1
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T14:00:00+00:00",
+  "location": {
+    "lat": 50.95317728023859,
+    "lon": 3.121155598901244,
+    "ab_name": "44RL01 - Roeselare",
+    "network": "Flanders"
+  },
+  "pm25_value": 7,
+  "weather": {
+    "temperature_2m": 14.5,
+    "relativehumidity_2m": 80,
+    "windspeed_10m": 2.2
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T13:00:00+00:00",
+  "location": {
+    "lat": 50.91664840535989,
+    "lon": 4.515181795705702,
+    "ab_name": "40SZ05 - Steenokkerzeel",
+    "network": "Flanders"
+  },
+  "pm25_value": 9,
+  "weather": {
+    "temperature_2m": 16.4,
+    "relativehumidity_2m": 70,
+    "windspeed_10m": 4.7
+  }
+}
+{
+  "timestamp": "2025-06-17T16:00:00+00:00",
+  "location": {
+    "lat": 50.72088837560367,
+    "lon": 4.494362377317611,
+    "ab_name": "43N064 - Rixensart",
+    "network": "Wallonia"
+  },
+  "pm25_value": 4,
+  "weather": {
+    "temperature_2m": 14.9,
+    "relativehumidity_2m": 75,
+    "windspeed_10m": 4.0
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T16:00:00+00:00",
+  "location": {
+    "lat": 50.27447751094961,
+    "lon": 5.235168654774107,
+    "ab_name": "43N093 - Sinsin",
+    "network": "Wallonia"
+  },
+  "pm25_value": 3,
+  "weather": {
+    "temperature_2m": 12.9,
+    "relativehumidity_2m": 86,
+    "windspeed_10m": 4.7
+  }
+}
+{
+  "timestamp": "2025-06-17T16:00:00+00:00",
+  "location": {
+    "lat": 50.84966548806797,
+    "lon": 4.333819707712016,
+    "ab_name": "41R001 - Molenbeek-Saint-Jean",
+    "network": "Brussels"
+  },
+  "pm25_value": 7,
+  "weather": {
+    "temperature_2m": 19.2,
+    "relativehumidity_2m": 59,
+    "windspeed_10m": 7.9
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T16:00:00+00:00",
+  "location": {
+    "lat": 50.796631638497885,
+    "lon": 4.358538856351678,
+    "ab_name": "41R012 - Uccle",
+    "network": "Brussels"
+  },
+  "pm25_value": 6,
+  "weather": {
+    "temperature_2m": 18.0,
+    "relativehumidity_2m": 62,
+    "windspeed_10m": 7.6
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T12:00:00+00:00",
+  "location": {
+    "lat": 50.89510056203224,
+    "lon": 4.392717697566157,
+    "ab_name": "41MEU1 - Meudon",
+    "network": "Brussels"
+  },
+  "pm25_value": 6,
+  "weather": {
+    "temperature_2m": 17.8,
+    "relativehumidity_2m": 64,
+    "windspeed_10m": 7.6
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T11:00:00+00:00",
+  "location": {
+    "lat": 50.883559811382206,
+    "lon": 4.38296325180234,
+    "ab_name": "41N043 - Haren",
+    "network": "Brussels"
+  },
+  "pm25_value": 6,
+  "weather": {
+    "temperature_2m": 18.0,
+    "relativehumidity_2m": 64,
+    "windspeed_10m": 7.6
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T10:00:00+00:00",
+  "location": {
+    "lat": 50.85803059327685,
+    "lon": 4.288336366305905,
+    "ab_name": "41B011 - Berchem-Sainte-Agathe",
+    "network": "Brussels"
+  },
+  "pm25_value": 6,
+  "weather": {
+    "temperature_2m": 17.8,
+    "relativehumidity_2m": 65,
+    "windspeed_10m": 7.2
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T10:00:00+00:00",
+  "location": {
+    "lat": 50.84356660319525,
+    "lon": 4.367005785367071,
+    "ab_name": "41REG1 - Brussel (Bld du Régent)",
+    "network": "Brussels"
+  },
+  "pm25_value": 9,
+  "weather": {
+    "temperature_2m": 19.1,
+    "relativehumidity_2m": 59,
+    "windspeed_10m": 7.9
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T09:00:00+00:00",
+  "location": {
+    "lat": 50.84356660319525,
+    "lon": 4.367005785367071,
+    "ab_name": "41REG1 - Brussel (Bld du Régent)",
+    "network": "Brussels"
+  },
+  "pm25_value": 8,
+  "weather": {
+    "temperature_2m": 19.1,
+    "relativehumidity_2m": 59,
+    "windspeed_10m": 7.9
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T08:00:00+00:00",
+  "location": {
+    "lat": 50.85803059327685,
+    "lon": 4.288336366305905,
+    "ab_name": "41B011 - Berchem-Sainte-Agathe",
+    "network": "Brussels"
+  },
+  "pm25_value": 7,
+  "weather": {
+    "temperature_2m": 17.8,
+    "relativehumidity_2m": 65,
+    "windspeed_10m": 7.2
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T08:00:00+00:00",
+  "location": {
+    "lat": 50.796631638497885,
+    "lon": 4.358538856351678,
+    "ab_name": "41R012 - Uccle",
+    "network": "Brussels"
+  },
+  "pm25_value": 6,
+  "weather": {
+    "temperature_2m": 18.0,
+    "relativehumidity_2m": 62,
+    "windspeed_10m": 7.6
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T06:00:00+00:00",
+  "location": {
+    "lat": 50.85803059327685,
+    "lon": 4.288336366305905,
+    "ab_name": "41B011 - Berchem-Sainte-Agathe",
+    "network": "Brussels"
+  },
+  "pm25_value": 7,
+  "weather": {
+    "temperature_2m": 17.8,
+    "relativehumidity_2m": 65,
+    "windspeed_10m": 7.2
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T05:00:00+00:00",
+  "location": {
+    "lat": 50.84356660319525,
+    "lon": 4.367005785367071,
+    "ab_name": "41REG1 - Brussel (Bld du Régent)",
+    "network": "Brussels"
+  },
+  "pm25_value": 9,
+  "weather": {
+    "temperature_2m": 19.1,
+    "relativehumidity_2m": 59,
+    "windspeed_10m": 7.9
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T03:00:00+00:00",
+  "location": {
+    "lat": 50.89510056203224,
+    "lon": 4.392717697566157,
+    "ab_name": "41MEU1 - Meudon",
+    "network": "Brussels"
+  },
+  "pm25_value": 7,
+  "weather": {
+    "temperature_2m": 17.8,
+    "relativehumidity_2m": 64,
+    "windspeed_10m": 7.6
+  }
+}
+,
+{
+  "timestamp": "2025-06-17T03:00:00+00:00",
+  "location": {
+    "lat": 50.84966548806797,
+    "lon": 4.333819707712016,
+    "ab_name": "41R001 - Molenbeek-Saint-Jean",
+    "network": "Brussels"
+  },
+  "pm25_value": 7,
+  "weather": {
+    "temperature_2m": 19.2,
+    "relativehumidity_2m": 59,
+    "windspeed_10m": 7.9
+  }
+}
+]
