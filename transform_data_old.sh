@@ -3,19 +3,17 @@
 INPUT_DIR="raw_data"
 OUTPUT_DIR="processed_data"
 LOG_FILE="logs/transform_data.log"
-OUTPUT_FILE="final_data.csv"
-OUTPUT_PATH="${OUTPUT_DIR}/${OUTPUT_FILE}"
+OUTPUT_FILE="combined_data"
+TIMESTAMP=$(date +"%Y%m%d_%H%M%S")
+OUTPUT_PATH="${OUTPUT_DIR}/${OUTPUT_FILE}_${TIMESTAMP}.csv"
 
 mkdir -p "$OUTPUT_DIR"
 mkdir -p "$(dirname "$LOG_FILE")"
 
-TIMESTAMP=$(date +"%Y%m%d_%H%M%S")
 echo "[$TIMESTAMP] Start transform_data.sh" | tee -a "$LOG_FILE"
 
-# Als het outputbestand nog niet bestaat, schrijf de header
-if [ ! -f "$OUTPUT_PATH" ]; then
-  echo "timestamp,local_timestamp,lat,lon,ab_name,network,pm25_value,temperature_2m,apparent_temperature,relativehumidity_2m,windspeed_10m" > "$OUTPUT_PATH"
-fi
+# Header CSV schrijven
+echo "timestamp,local_timestamp,lat,lon,ab_name,network,pm25_value,temperature_2m,apparent_temperature,relativehumidity_2m,windspeed_10m" > "$OUTPUT_PATH"
 
 for FILE in "${INPUT_DIR}"/pm25_*.json; do
   echo "[$TIMESTAMP] Verwerk $FILE" | tee -a "$LOG_FILE"
@@ -57,10 +55,6 @@ for FILE in "${INPUT_DIR}"/pm25_*.json; do
       "$HUM" \
       "$WIND" >> "$OUTPUT_PATH"
   done
-
-  # ✅ Verwijder het JSON-bestand na verwerking
-  rm "$FILE"
-  echo "[$TIMESTAMP] $FILE verwijderd na verwerking." | tee -a "$LOG_FILE"
 done
 
-echo "[$TIMESTAMP] Transformatie afgerond: output in $OUTPUT_PATH" | tee -a "$LOG_FILE"
+echo "[$TIMESTAMP] Transform en CSV klaar: $OUTPUT_PATH" | tee -a "$LOG_FILE"
